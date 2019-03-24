@@ -1,3 +1,4 @@
+<div style="text-align:center">
 import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
